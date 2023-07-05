@@ -4,7 +4,7 @@
 - 🌱 Активно изучаю фреймворк `Flutter`
 - 👯 Ищу любую возможность проявить свои навыки и трудолюбие в интересных проектах
   
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/#5338) [![Telegram](https://img.shields.io/badge/Telegram-%234777CE.svg?logo=telegram&logoColor=white)](https://t.me/huzhetebyx) [![VK](https://img.shields.io/badge/_VK_-%232571D6.svg?logo=vk&logoColor=white)](https://vk.com/goliksim) [![RuStore](https://img.shields.io/badge/RuStore-%230073f2.svg?)](https://apps.rustore.ru/developer/5ZhdxQst79jWj5ncZcTh6LVwBpHZyb3b) [![Google Play](https://img.shields.io/badge/Google_Play-%23414141.svg?logo=googleplay&logoColor=white)](https://discord.gg/#5338)     
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/#5338) [![Telegram](https://img.shields.io/badge/Telegram-%234777CE.svg?logo=telegram&logoColor=white)](https://t.me/huzhetebyx) [![VK](https://img.shields.io/badge/_VK_-%232571D6.svg?logo=vk&logoColor=white)](https://vk.com/goliksim) [![RuStore](https://img.shields.io/badge/RuStore-%230073f2.svg?)](https://apps.rustore.ru/developer/5ZhdxQst79jWj5ncZcTh6LVwBpHZyb3b) [![Google Play](https://img.shields.io/badge/Google_Play-%23414141.svg?logo=googleplay&logoColor=white)](https://play.google.com/store/apps/developer?id=goliksim)     
 ### 🤖 My Apps:
  <table>
   <tr>
